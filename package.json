@@ -1,0 +1,14 @@
+{
+  "name": "insert-municipal-of-state-angolan",
+  "version": "1.0.0",
+  "description": "Inserir dados dos municipios na base de dados",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PK"
+  ],
+  "author": "Pedro Kondo",
+  "license": "ISC"
+}
