@@ -12,6 +12,7 @@
   "author": "Pedro Kondo",
   "license": "ISC",
   "dependencies": {
+    "knex": "^2.4.2",
     "mysql2": "^3.1.2",
     "read-excel-file": "^5.6.1"
   }
