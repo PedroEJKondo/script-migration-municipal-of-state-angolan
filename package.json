@@ -10,5 +10,9 @@
     "PK"
   ],
   "author": "Pedro Kondo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.1.2",
+    "read-excel-file": "^5.6.1"
+  }
 }
